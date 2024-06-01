@@ -4,7 +4,7 @@
 Desafio de portifólio proposto pela Oracle Next Education mais Alura, site responsivo para diferentes tipos de tela, desenvolvido com flex-box e grid-layout, com formulário de contato e sua respectiva validação com JavaScript.
 
 ## Imagem
-![Captura de tela 2024-04-22 105730](https://github.com/lucasprog23/challenge-one-portfolio-br/assets/print.png)
+![Captura de tela 2024-04-22 105730](https://github.com/LucasProg23/Portifolio/tree/main/assets/print.png)
 
 ## Ver demonstração
 * [Acesse meu portfólio, link do github pages](https://lucasprog23.github.io/jogo-do-numero-secreto/)

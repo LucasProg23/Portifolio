@@ -18,5 +18,5 @@ Desafio de portifólio proposto pela Oracle Next Education mais Alura, site resp
 
 ## Autor
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/133176621?v=4" width=115><br><sub text-decoration="none">Lucas Gabriel</sub>](https://github.com/lucasprog23) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/133707929?v=4" width=115><br><sub text-decoration="none">Lucas Gabriel</sub>](https://github.com/lucasprog23) |
 | :---: |

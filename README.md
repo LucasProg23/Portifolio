@@ -8,6 +8,7 @@ Desafio de portifólio proposto pela Oracle Next Education mais Alura, site resp
 ![print](https://github.com/LucasProg23/Portifolio/assets/133707929/ef9d1dbd-2509-4b52-aa33-f253cf9d8cda)
 
 ## Ver demonstração
+* [Acesse meu portfólio, link do vercel](https://portifolio-opal-rho.vercel.app/)
 * [Acesse meu portfólio, link do github pages](https://lucasprog23.github.io/Portifolio/)
 * No portifólio apresento-me, falo um pouco sobre mim e listo os meus projetos onde para cada um tem dois botões, um que direciona para o repositório e outro direto para o projeto publicado. Também, há um formulário para contato com o desenvolvedor. 
 
